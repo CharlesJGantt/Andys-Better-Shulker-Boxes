@@ -132,7 +132,7 @@ Labels are visible only on shulker boxes placed in the world. The add-on does no
 - Confirm that the Behavior Pack is active.
 - Test with a common item such as a Diamond, Apple, Compass, or Redstone Dust.
 
-See the [project wiki](../../wiki) for the complete installation, usage, compatibility, and troubleshooting guides.
+See the [project wiki](https://github.com/CharlesJGantt/Andys-Better-Shulker-Boxes/wiki) for the complete installation, usage, compatibility, and troubleshooting guides.
 
 ## Follow and Support Andy
 

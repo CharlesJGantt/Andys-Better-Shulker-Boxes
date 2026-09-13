@@ -9,7 +9,7 @@
 Andy's Better Shulker Boxes makes storage readable at a glance. Sneak-use an item on any placed shulker box to display that item's familiar icon on the clicked face. The real item is kept safely in the label, survives chunk unloads, and stays attached when the shulker is picked up and placed again.
 
 <p align="center">
-  <img src="images/label-showcase.jpg" alt="A storage room with labeled shulker boxes" width="700">
+  <img src="images/storage-room-labels.jpg" alt="A storage room with labeled shulker boxes on walls and floors" width="700">
 </p>
 
 _Use color for broad categories and item labels for the exact contents._
@@ -38,7 +38,7 @@ The complete player documentation is in the [GitHub Wiki](https://github.com/Cha
 - Overworld, Nether, End, single-player, multiplayer, Realm, and compatible server support
 
 <p align="center">
-  <img src="images/label-grid.jpg" alt="Many shulker boxes displaying different item labels" width="700">
+  <img src="images/label-grid-overhead.jpg" alt="An overhead grid of colorful shulker boxes displaying different item labels" width="700">
 </p>
 
 ## Installation
@@ -69,7 +69,17 @@ Import and activate the add-on on Windows or mobile, upload the prepared world t
 Floor-placed shulkers accept labels on the top and four sides. Wall-placed shulkers accept labels on their player-facing top and four sides. Ceiling-placed shulkers accept labels on their downward-facing top and four sides.
 
 <p align="center">
-  <img src="images/wall-and-ceiling-labels.jpg" alt="Labels displayed on wall-mounted and ceiling-mounted shulker boxes" width="700">
+  <img src="images/wall-floor-ceiling-labels.jpg" alt="Labels displayed on floor, wall, and ceiling-mounted shulker boxes" width="700">
+</p>
+
+_The label follows the clicked face, including a ceiling-mounted shulker's downward-facing lid._
+
+<p align="center">
+  <img src="images/ceiling-labels.jpg" alt="Item labels on the downward-facing lids of ceiling-mounted shulker boxes" width="700">
+</p>
+
+<p align="center">
+  <img src="images/side-labels-wide.jpg" alt="Item labels displayed across the side faces of several shulker boxes" width="700">
 </p>
 
 ## Compatibility and limitations
